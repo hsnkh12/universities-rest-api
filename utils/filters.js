@@ -1,10 +1,6 @@
 
 
 
-// host.com/api/unis/?country=&state=&page= (Advanced filter in body)
-
-// {'detail.studies.arts': { B: true, M: true, D: true } }
-
 const getFilterQuery = (body,queryParams) => {
     
 
